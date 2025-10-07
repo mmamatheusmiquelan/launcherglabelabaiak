@@ -1,0 +1,15 @@
+{
+  "server_name": "Glabela Baiak",
+  "current_version": "1.0.0",
+  "description": "Latest game client with new features!",
+  "github_username": "mmamatheusmiquelan",
+  "github_repository": "launcherglabelabaiak",
+  "client_zip_filename": "tibia-client.zip",
+  
+  "enable_auto_update": true,
+  "launcher_github_username": "mmamatheusmiquelan",
+  "launcher_github_repository": "tibialauncher",
+  "current_launcher_version": "2.0.0",
+  
+  "protected_folders": ["minimap", "conf", "characterdata", "screenshots"]
+}
